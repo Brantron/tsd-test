@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="103" height="30" viewBox="0 0 103 30">
+  <defs>
+    <style>
+
+      .cls-2 {
+        font-size: 66px;
+      }
+
+      .cls-3 {
+        font-size: 66px;
+        font-family: "NarzissRegular-Drops";
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(-1 31) scale(0.62)"><tspan class="cls-3">Logo</tspan></text>
+</svg>
